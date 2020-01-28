@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MOQF</string>
+    <string name="title_activity_main2">MOQF</string>
+    <string name="title_home">Les dernieres offres</string>
+    <string name="title_categories">Les catégories</string>
+    <string name="title_cities">Les villes</string>
+    <string name="button">créer une nouvel annonce</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Moqf</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_about">حول التطبيق</string>
+    <string name="action_refresh">تحديث</string>
+    <string name="author">BENAYAD OTMANE</string>
+    <string name="search_title">البحث</string>
+    <string name="search_hint">نجار</string>
+    <string name="load_problem">"مشكلة عند تحميل البيانات."</string>
+    <string name="load_problem2">"ﻻ توجد مواضيع في هذا القسم."</string>
+    <string name="info_text">
+        هي خدمة تسعى إلى تقريب المسافة
+        بين أصحاب الأعمال الحرة والزبائن الذين يسعون إلى إيجاد خدمة في المستوى
+        ، يمكنكم التفضل بزيارة موقعنا على الإنترنت من خلال الرابط التالي :
+    </string>
+    <string name="title_activity_detail">تفاصيل الإعلان</string>
+    <string name="tab_text_1">الوصف</string>
+    <string name="tab_text_2">الصور</string>
+    <string name="tab_text_3">معلومات اﻻتصال</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="textview_category">التصنيف :</string>
+    <string name="textview_creation_date">تاريخ النشر :</string>
+    <string name="textview_price">الثمن :</string>
+    <string name="textview_city">المدينة :</string>
+    <string name="textview_author">صاحب الإعلان :</string>
+    <string name="textview_email">البريد الإلكتروني :</string>
+    <string name="title_activity_slideshow">SlideshowActivity</string>
+
+</resources>
